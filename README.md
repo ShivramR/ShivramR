@@ -20,7 +20,7 @@ My interests include software development, app development, and front-end web de
 </a>
 
 <a href="https://github.com/ShivramR/AI-Mentorship/">
-  <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=ShivraR&repo=AI-Mentorship&bg_color=40,291738,6f3e96&title_color=f7f7de&text_color=e7e7cc&icon_color=fcba03">
+  <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=ShivramR&repo=AI-Mentorship&bg_color=40,291738,6f3e96&title_color=f7f7de&text_color=e7e7cc&icon_color=fcba03">
 </a>
 
 <!--
