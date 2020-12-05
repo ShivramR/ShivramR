@@ -3,7 +3,7 @@ My name is Shivram and I'm a student at UNC Chapel Hill. Take a look at my repos
 
 I'm currently learning SwiftUI, JavaScript, Google Flutter, and FireBase. I'm also working on an under-construction portfolio website.
 
-My interests include software development, app development, and front-end web development. I also enjoy working in data science machine learning!
+My interests include software development, app development, and front-end web development, in addition to data science machine learning!
 
 ## GitHub stats
 <a href="https://github.com/ShivramR/">
