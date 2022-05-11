@@ -1,9 +1,9 @@
 # Welcome! 👋
 My name is Shivram and I'm a student at UNC Chapel Hill. Take a look at my repositories below to explore some of my projects. In addition to this GitHub, you can also find me on [LinkedIn](http://linkedin.com/in/shivram-ramkumar). 
 
-I'm currently mastering React.js and learning SwiftUI, Google Flutter, and FireBase. Check out my portfolio website [**here**](https://shivramr.github.io)!
+I'm currently mastering React.js and learning how to use SwiftUI and Firebase. Check out my portfolio website [**here**](https://shivramr.github.io)!
 
-My interests include software development and front-end web development, in addition to data science and machine learning.
+My interests include software development and full-stack web development, in addition to data science and machine learning.
 
 ## GitHub stats
 <a href="https://github.com/ShivramR/">
@@ -19,7 +19,11 @@ My interests include software development and front-end web development, in addi
   <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=Free-APIS&repo=Free-APIs.github.io&bg_color=40,374151,1f2937&title_color=f7f7de&text_color=e7e7cc&icon_color=fcba03">
 </a>
 
----
+<a href="https://github.com/pranavchintal/connectedcarolina">
+  <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=pranavchintal&repo=connectedcarolina&bg_color=40,1f2937,374151&title_color=f7f7de&text_color=e7e7cc&icon_color=fcba03">
+</a>
+
+###
 
 <a href="https://github.com/ShivramR/DERI-2019/">
   <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=ShivramR&repo=DERI-2019&bg_color=40,6f3e96,291738&title_color=f7f7de&text_color=e7e7cc&icon_color=fcba03">
